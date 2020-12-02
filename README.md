@@ -1,5 +1,5 @@
 # Pertemuan-10
-# **Nama   : Shobahus Solichin** 
+# **Nama   : SHOBAHUS SOLICHIN** 
 # **NIM    : 312010076**
 # **Kelas  : TI.20.A1**
 
